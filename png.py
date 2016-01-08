@@ -6,5 +6,5 @@ class Png:
 
 
 if __name__ == "__main__":
-    # will print that if this file will be iterpreted
+    # will print that if this file is iterpreted
     print "Gif imported successfully"

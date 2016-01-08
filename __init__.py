@@ -1,3 +1,6 @@
+# Will give:
+# ValueError: Attempted relative import in non-package
+
 from . import jpg
 from . import png
 
